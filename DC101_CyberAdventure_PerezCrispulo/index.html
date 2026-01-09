@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cyber Adventure Game</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-images">
+    <img src="assets/crispulo.png" alt="Crispulo Perez" class="profile">
+    <img src="assets/arlyn.png" alt="Ma'am Arlyn" class="profile">
+  </div>
+  <h1>🛡 Cyber Adventure</h1>
+<p>10 Level School-Themed Interactive Story</p>
+</header>
+
+<main>
+  <section class="scene">
+    <div class="gif-container">
+      <img id="sceneImage" src="assets/level1_open.gif" alt="Story Scene" class="main-gif">
+      <img src="assets/crispulo.png" alt="Crispulo Perez" class="profile-overlay" id="overlayPlayer">
+      <img src="assets/arlyn.png" alt="Ma'am Arlyn" class="profile-overlay" id="overlayTeacher">
+    </div>
+    <div class="story-container">
+      <p id="storyText">
+        Welcome Crispulo Perez! Are you ready to start your cyber adventure with guidance from Ma'am Arlyn?
+      </p>
+    </div>
+  </section>
+
+  <section class="choices" id="choices">
+    <button onclick="startLevel(1)">Start Adventure</button>
+  </section>
+</main>
+
+<footer>
+  <p>Web Development 1 | Final Project by Crispulo C. Perez</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
