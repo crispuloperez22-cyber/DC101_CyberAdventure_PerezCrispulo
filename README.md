@@ -27,7 +27,7 @@ Cyber Adventure is a 10-level school-themed interactive story game** that teache
 
 ![Game Screenshot](screenshot.png)
 
-Link: https://github.com/crispuloperez22-cyber/DC101_CyberAdventure_PerezCrispulo.git
+GitHub Pages Link: [https://github.com/crispuloperez22-cyber/DC101_CyberAdventure_PerezCrispulo.git](https://github.com/crispuloperez22-cyber/DC101_CyberAdventure_PerezCrispulo.git)
 ## ✅ Features
 
 - 10 engaging levels with cyber safety challenges  
